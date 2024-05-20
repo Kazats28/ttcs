@@ -1,0 +1,12 @@
+Metric,Test
+Accuracy,"precision    49.08
+recall       49.08
+f1-score     49.08
+support      49.08
+Name: accuracy, dtype: float64"
+Precision (Cat),49.102263856362214
+Precision (Dog),49.056603773584904
+Recall (Cat),50.32
+Recall (Dog),47.839999999999996
+F1-Score (Cat),49.70367443698143
+F1-Score (Dog),48.44066423653301

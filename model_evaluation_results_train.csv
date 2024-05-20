@@ -1,0 +1,12 @@
+Metric,Train
+Accuracy,"precision    50.114286
+recall       50.114286
+f1-score     50.114286
+support      50.114286
+Name: accuracy, dtype: float64"
+Precision (Cat),50.11248593925759
+Precision (Dog),50.11614401858304
+Recall (Cat),50.91428571428571
+Recall (Dog),49.31428571428572
+F1-Score (Cat),50.51020408163265
+F1-Score (Dog),49.71198156682028

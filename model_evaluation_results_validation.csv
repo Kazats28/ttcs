@@ -1,0 +1,12 @@
+Metric,Validation
+Accuracy,"precision    50.26
+recall       50.26
+f1-score     50.26
+support      50.26
+Name: accuracy, dtype: float64"
+Precision (Cat),50.251645373596595
+Precision (Dog),50.268928423665706
+Recall (Cat),51.92
+Recall (Dog),48.6
+F1-Score (Cat),51.07220145583317
+F1-Score (Dog),49.42037827943868
